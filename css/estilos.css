@@ -1,7 +1,7 @@
 body {
     color: red;
     text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 
 }
 #cabecera{
@@ -27,4 +27,7 @@ body {
 }
 #cotainer h1{
     font-size: 20px;
+}
+#button{
+    
 }
